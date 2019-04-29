@@ -1,0 +1,11 @@
+C:\GIT_DEVELOPMENT\csxsltproc\bin\Debug\netcoreapp2.2\csxsltproc.deps.json
+C:\GIT_DEVELOPMENT\csxsltproc\bin\Debug\netcoreapp2.2\csxsltproc.runtimeconfig.json
+C:\GIT_DEVELOPMENT\csxsltproc\bin\Debug\netcoreapp2.2\csxsltproc.runtimeconfig.dev.json
+C:\GIT_DEVELOPMENT\csxsltproc\bin\Debug\netcoreapp2.2\csxsltproc.dll
+C:\GIT_DEVELOPMENT\csxsltproc\bin\Debug\netcoreapp2.2\csxsltproc.pdb
+C:\GIT_DEVELOPMENT\csxsltproc\obj\Debug\netcoreapp2.2\csxsltproc.csprojAssemblyReference.cache
+C:\GIT_DEVELOPMENT\csxsltproc\obj\Debug\netcoreapp2.2\csxsltproc.csproj.CoreCompileInputs.cache
+C:\GIT_DEVELOPMENT\csxsltproc\obj\Debug\netcoreapp2.2\csxsltproc.AssemblyInfoInputs.cache
+C:\GIT_DEVELOPMENT\csxsltproc\obj\Debug\netcoreapp2.2\csxsltproc.AssemblyInfo.cs
+C:\GIT_DEVELOPMENT\csxsltproc\obj\Debug\netcoreapp2.2\csxsltproc.dll
+C:\GIT_DEVELOPMENT\csxsltproc\obj\Debug\netcoreapp2.2\csxsltproc.pdb
