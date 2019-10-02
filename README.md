@@ -1,4 +1,4 @@
-# DotnetCoreXslt
+# Cross Platform XSLT Processor
 A dotnet core 2.2 port of https://github.com/Softwariness/XSLT
 
 An XSLT Processor as command line utility
